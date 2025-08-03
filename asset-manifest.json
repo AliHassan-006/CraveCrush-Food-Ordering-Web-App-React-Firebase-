@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CraveCrush-Food-Ordering-Web-App-React-Firebase-/static/css/main.3491f966.css",
+    "main.js": "/CraveCrush-Food-Ordering-Web-App-React-Firebase-/static/js/main.7cec08d9.js",
+    "static/media/Table-Food.avif": "/CraveCrush-Food-Ordering-Web-App-React-Firebase-/static/media/Table-Food.035eaea14bcd13d8f02b.avif",
+    "index.html": "/CraveCrush-Food-Ordering-Web-App-React-Firebase-/index.html",
+    "main.3491f966.css.map": "/CraveCrush-Food-Ordering-Web-App-React-Firebase-/static/css/main.3491f966.css.map",
+    "main.7cec08d9.js.map": "/CraveCrush-Food-Ordering-Web-App-React-Firebase-/static/js/main.7cec08d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3491f966.css",
+    "static/js/main.7cec08d9.js"
+  ]
+}
